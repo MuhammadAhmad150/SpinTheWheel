@@ -1,9 +1,9 @@
 # SpinTheWheel
-This is Spinning Wheel Game. Made in the unity  C#. Tested for Andddddroid and WindowsMac Build. Apk added project. Works PERFECTLY. Will make it over the internet so several people view and will update that version sooner than later. GOOODUCKK and THANKSSSSSZZZZZZZZZZZ
+This is Spinning Wheel Game. Made in the unity  C#. Tested for Andddddroid and WindowsMac Build. Apk added project. Works PERFECTLY. Will make it over the internet so several people view and will update that version sooner than later. 
 
 
 HOW TO RUN THE GAMING and IN CASE ERRORS ERROS :
-- [ ] 1- Create Unity Project and replac Assets folder with the givengiven Assets folder
+- [ ] 1- Create Unity Project and replac Assets folder with the givengiven Assets folder(first unzip the Assets file then add the extracted File Versiopn)
 - [ ] 2- Then add scenes to the File->BuildSettings 
 - [ ] 3- Drag and drop scenes from scenes folder; but 1st drag and drop InputNames(Scene) then drop SampleScene else errors errors!!
 

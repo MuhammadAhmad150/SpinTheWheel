@@ -20,3 +20,9 @@ RUN AND   ENJOYYYYYYYYYYYYYYY
 - [ ] 10- sharing screen shorts
 - [ ] 11- when 1 player is left in the end, PlayAgain BUtoon pops up at the left cornersrcen , add personagains and play LET’S PLAYYYYYY
 goodluck ENJOYYYYYYYYYYYYYYYY
+
+
+UPDATE:
+i  have added SPIN button because in some phones there was issue issue ISSUE with the touch so press spin button and enjoy that
+More over confetti added ie celebration
+Also Winner panel pop up each timee someoneee gets 
